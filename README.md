@@ -128,3 +128,13 @@ The Node.js backend uses the `child_process` module to execute the compiled C++ 
 *   **Backend:** The Node.js backend can be deployed to platforms like Heroku, AWS Elastic Beanstalk, or a virtual private server (VPS).
 *   **Frontend:** The React frontend can be built into static files (`npm run build`) and served by a static file server like Nginx, or hosted on platforms like Netlify or Vercel.
 *   **C++ Backend:** When deploying, ensure the C++ code is compiled on the target server environment, or use a Docker container to package the entire application (Node.js backend + C++ executable).
+*   ---
+
+## 👤 Author
+
+- **Name:** shinachn996  
+- **Email:** dekusunita996@gmail.com  
+- **GitHub:** https://github.com/shinchan996  
+- **Project:** Online File Compressor and Converter  
+- **Year:** 2026
+
